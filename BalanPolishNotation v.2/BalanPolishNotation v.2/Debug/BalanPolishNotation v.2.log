@@ -1,0 +1,21 @@
+﻿Build started 1/2/2022 10:31:10 PM.
+     1>Project "D:\Bi\Bi Homework\DTA\week9\BalanPolishNotation v.2\BalanPolishNotation v.2\BalanPolishNotation v.2.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(362,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\BalanPolishNotation v.2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\BalanPolishNotation v.2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "BalanPolishNotation v.2.cpp"
+         BalanPolishNotation v.2.cpp
+     1>d:\bi\bi homework\dta\week9\balanpolishnotation v.2\balanpolishnotation v.2\balanpolishnotation v.2.cpp(75): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\bi\bi homework\dta\week9\balanpolishnotation v.2\balanpolishnotation v.2\balanpolishnotation v.2.cpp(136): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\bi\bi homework\dta\week9\balanpolishnotation v.2\balanpolishnotation v.2\balanpolishnotation v.2.cpp(146): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\bi\bi homework\dta\week9\balanpolishnotation v.2\balanpolishnotation v.2\balanpolishnotation v.2.cpp(132): warning C4715: 'resultOfOperation' : not all control paths return a value
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Bi\Bi Homework\DTA\week9\BalanPolishNotation v.2\Debug\BalanPolishNotation v.2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Bi\Bi Homework\DTA\week9\BalanPolishNotation v.2\Debug\BalanPolishNotation v.2.pdb" /SUBSYSTEM:CONSOLE,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Bi\Bi Homework\DTA\week9\BalanPolishNotation v.2\Debug\BalanPolishNotation v.2.lib" /MACHINE:X86 "Debug\BalanPolishNotation v.2.obj"
+         Debug\stdafx.obj
+         BalanPolishNotation v.2.vcxproj -> D:\Bi\Bi Homework\DTA\week9\BalanPolishNotation v.2\Debug\BalanPolishNotation v.2.exe
+     1>Done Building Project "D:\Bi\Bi Homework\DTA\week9\BalanPolishNotation v.2\BalanPolishNotation v.2\BalanPolishNotation v.2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.33

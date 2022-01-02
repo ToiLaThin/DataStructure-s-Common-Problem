@@ -1,0 +1,10 @@
+﻿Build started 9/1/2021 8:22:15 PM.
+     1>Project "C:\Users\anbinh\Desktop\Bt Lap Trình\DTA\week1\Bai_2\Bai_2\Bai_2.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(362,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>Link:
+         Bai_2.vcxproj -> C:\Users\anbinh\Desktop\Bt Lap Trình\DTA\week1\Bai_2\Debug\Bai_2.exe
+     1>Done Building Project "C:\Users\anbinh\Desktop\Bt Lap Trình\DTA\week1\Bai_2\Bai_2\Bai_2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.19
